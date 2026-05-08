@@ -28,4 +28,6 @@ public class LocationController {
         return new ResponseEntity<>(Map.of("message","updated Location"), HttpStatus.OK);
     }
 
+    // this is the testing for git commit
+
 }
